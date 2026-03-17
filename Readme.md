@@ -1,4 +1,4 @@
-## Este repositorio comprende el el proyecto del Curso Básico y Avanzado de Java
+## Este repositorio comprende el proyecto del Curso Básico y Avanzado de Java
 
 Todo está organizado en ramas, a continuación verás la distribución.
 
